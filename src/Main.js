@@ -24,7 +24,7 @@ function Main() {
                   <Nav.Link href="/">
                   <p>Home</p>
                   </Nav.Link>
-                  <Nav.Link href="/User1">
+                  <Nav.Link href="#link">
                     <p>About</p>
                   </Nav.Link>
                   <Nav.Link href="#link">
